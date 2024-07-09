@@ -1,10 +1,10 @@
-# ChatBot-Lab
+# TriviaChat-Lab
 
-In this lab, you'll make a simple chatbot that plays a trivia game with the user!
+In this lab, you'll make a simple chat interface that plays a trivia game with the user!
 
 ## Checkpoint 1
 
-Chatbot Lab installed/working, and when you send any message the chatbot responds with “I am da response!”
+TriviaChat Lab is installed/working, and when you send any message the chatbot responds with “I am da response!”
 
 - Clone the repo, then do `yarn`, then start expo with `yarn expo start`
 - You won't need to do any coding for this checkpoint. Just find the correct line of code to uncomment
@@ -13,7 +13,7 @@ Chatbot Lab installed/working, and when you send any message the chatbot respond
 
 ## Checkpoint 2
 
-Your first piece of simple chatbot logic works, so that when the user says “Yes” the chatbot asks a question, and if the user says anything else the chatbot politely tells the user to say “Yes” to start.
+Your first piece of simple chat logic works, so that when the user says “Yes” the chatbot asks a question, and if the user says anything else the chatbot politely tells the user to say “Yes” to start.
 
 ![Screenshot_2023-07-13 15 59 56_yKNkTt](https://github.com/Snap-Engineering-Academy-2023/ChatBot-Lab/assets/7607483/f85b92f6-4cf6-4ecd-a684-6019dfaf05ab)
 
