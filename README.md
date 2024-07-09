@@ -8,7 +8,7 @@ TriviaChat Lab is installed/working, and when you send any message the chatbot r
 
 - Click the "Use as Template" button to make your own copy of the repo
 - Clone your repo, do `yarn` to install packages, and start expo with `yarn expo start`
-- **You won't need to write new code for this checkpoint. Just find the correct line of code to uncomment**
+- **Find the correct line of code to uncomment to complete the checkpoint**
 
 ![Screenshot_2023-07-13 16 01 04_4SN0hZ](https://github.com/Snap-Engineering-Academy-2023/ChatBot-Lab/assets/7607483/5fed5962-6296-4abb-a80a-aea5322cfbeb)
 
