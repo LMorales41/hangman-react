@@ -10,14 +10,14 @@ TriviaChat Lab is installed/working, and when you send any message the chatbot r
 - Clone your repo, do `yarn` to install packages, and start expo with `yarn expo start`
 - **Find the correct line of code to uncomment to complete the checkpoint**
 
-![Screenshot_2023-07-13 16 01 04_4SN0hZ](https://github.com/Snap-Engineering-Academy-2023/ChatBot-Lab/assets/7607483/5fed5962-6296-4abb-a80a-aea5322cfbeb)
+![image](https://github.com/Snap-Engineering-Academy-2024/triviachat-lab/assets/7607483/95f4ea64-d185-45b9-862a-a520536eff26)
 
 ## Checkpoint 2
 
 Your first piece of simple chat logic works, so that when the user says “Yes” the chatbot asks a question, and if the user says anything else the chatbot politely tells the user to say “Yes” to start.  
 *FYI, for this checkpoint and onwards you're writing code! You'll mostly be adding to the `respondToUser()` function*
 
-![Screenshot_2023-07-13 15 59 56_yKNkTt](https://github.com/Snap-Engineering-Academy-2023/ChatBot-Lab/assets/7607483/f85b92f6-4cf6-4ecd-a684-6019dfaf05ab)
+![image](https://github.com/Snap-Engineering-Academy-2024/triviachat-lab/assets/7607483/3aced8af-a427-4cdb-a35c-89b53da45c88)
 
 ## Checkpoint 3
 
