@@ -21,7 +21,7 @@ Your first piece of simple chat logic works, so that when the user says “Yes�
 
 ## Checkpoint 3
 
-Your first trivia question is working, so the chatbot tells the user when they’ve answered the first question correctly and asks them a second question.
+Come up with your own trivia question, and get it working with the chatbot! When done, your chatbot should ask the first question, tells the user if they got it right, then ask them a second question.
 
 ## Checkpoint 4
 
