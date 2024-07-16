@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TriviaChat-Lab
 
 In this lab, you'll make a simple chat interface that plays a trivia game with the user!
@@ -35,3 +36,7 @@ Add more questions to your chatbot with more interesting logic. Examples:
 - Randomly generated math problems (maybe the chatbot keeps score too)
 - Hangman (this is tricky! Printing the word with the correct letters showing/hidden is a challenging “leetcode-esque” string problem)
 - Use an API to get data for trivia (e.g. for a marvel movie quote API, “Which marvel character says this quote?”)
+=======
+# hangman-react
+A game of hangman built using React Native!
+>>>>>>> 39bcca00d8f872f1c3ba67d1744ca1f0b01e1369
